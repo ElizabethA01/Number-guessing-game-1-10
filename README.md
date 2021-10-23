@@ -5,7 +5,7 @@ Guess a number between 1 and 10 game
 Python 3.9.7
 
 # Running the tests:
-python -m unittest test
+python test2.py
 
 # Instructions
 This is a simple game of guessing a number between 1 and 10. 
